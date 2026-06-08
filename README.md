@@ -1,22 +1,20 @@
 <div align="center">
 
-# Khushali Gupta 👋
+# Khushali Gupta
 
-### AI/ML Engineer • Generative AI • LLMs • RAG • AI Agents
+### AI/ML Engineer • Generative AI • LLM Applications • RAG Systems • AI Agents
 
-Building intelligent systems powered by Large Language Models, Retrieval-Augmented Generation, and Machine Learning.
+Building intelligent products that transform data, video, and conversations into actionable insights.
 
 <p>
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:guptakhushali428@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/Khushaligupta01">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -24,13 +22,45 @@ Building intelligent systems powered by Large Language Models, Retrieval-Augment
 
 ---
 
+## 👩‍💻 Who Am I
+
+```yaml
+name: Khushali Gupta
+
+role: AI/ML Engineer
+
+education:
+  degree: B.Tech Computer Science
+  specialization: Artificial Intelligence & Machine Learning
+
+interests:
+  - Generative AI
+  - Large Language Models
+  - Retrieval-Augmented Generation
+  - AI Agents
+  - NLP
+  - Deep Learning
+
+currently_building:
+  - VideoMind AI
+  - Agentic AI Workflows
+  - Production-Ready RAG Systems
+
+mission:
+  Building practical AI applications with real-world impact
+```
+
+---
+
 ## 🚀 What I Build
 
-- AI Applications powered by LLMs
-- Retrieval-Augmented Generation (RAG) Systems
-- Conversational AI Assistants
-- AI Agent Workflows
-- Machine Learning & Deep Learning Solutions
+| Area | Focus |
+|--------|--------|
+| 🎥 Video Intelligence | Transcription, Summarization, Conversational Search |
+| 🤖 AI Agents | Tool Calling, Workflow Automation, Multi-Step Reasoning |
+| 🧠 RAG Systems | Semantic Search, Vector Retrieval, Knowledge Assistants |
+| 📊 ML Solutions | Prediction, Optimization, Forecasting |
+| 💬 Conversational AI | Chatbots, NLP Pipelines, Intelligent Assistants |
 
 ---
 
@@ -38,50 +68,101 @@ Building intelligent systems powered by Large Language Models, Retrieval-Augment
 
 ### 🎥 VideoMind AI
 
-AI-powered video intelligence platform that transforms videos into searchable knowledge.
+AI-powered video intelligence platform that enables users to interact with video content using natural language.
 
 **Highlights**
+
 - Video transcription using Whisper
 - AI-generated summaries
 - Conversational video Q&A
 - Semantic search with vector databases
-- RAG-powered retrieval
+- Retrieval-Augmented Generation (RAG)
 
-**Stack**
-`Python` `LangChain` `Whisper` `ChromaDB` `Mistral AI`
+**Tech**
+
+`Python` `Whisper` `LangChain` `ChromaDB` `Mistral AI`
 
 ---
 
 ### 💰 MoneyBot
 
-AI-powered financial advisory assistant capable of understanding natural language and generating personalized recommendations.
+AI-powered financial advisory assistant capable of understanding natural language and providing personalized recommendations.
 
 **Highlights**
-- DistilBERT-based NLP pipeline
-- Financial entity extraction
-- Recommendation engine
+
+- Financial NLP pipeline
+- DistilBERT-powered understanding
+- Entity extraction engine
+- Recommendation system
 - Real-time financial insights
 
-**Stack**
+**Tech**
+
 `Python` `DistilBERT` `Streamlit` `NLP`
 
 ---
 
-### 🌾 Crop Yield Prediction
+### 🌾 Crop Yield Prediction & Optimization
 
-Machine learning system for agricultural forecasting and crop yield optimization.
+Machine learning and deep learning platform for agricultural forecasting.
 
 **Highlights**
-- Multiple regression models
-- Ensemble learning
+
+- Ensemble learning models
 - Deep learning with GRU
-- Streamlit dashboard
+- Comparative model evaluation
+- Streamlit visualization dashboard
 
 **Result**
+
 📈 Achieved R² score of 0.91
 
-**Stack**
+**Tech**
+
 `Python` `XGBoost` `LightGBM` `GRU` `Streamlit`
+
+---
+
+## 🛠 Tech Arsenal
+
+### Generative AI
+
+`LLMs`
+`RAG`
+`LangChain`
+`Hugging Face`
+`Prompt Engineering`
+`AI Agents`
+
+### Machine Learning
+
+`TensorFlow`
+`Scikit-Learn`
+`Deep Learning`
+`NLP`
+`Computer Vision`
+
+### Backend & Databases
+
+`Spring Boot`
+`REST APIs`
+`MySQL`
+`PostgreSQL`
+`ChromaDB`
+
+### Languages
+
+`Python`
+`Java`
+`C++`
+
+### Tools
+
+`Git`
+`GitHub`
+`VS Code`
+`Jupyter`
+`Power BI`
 
 ---
 
@@ -97,53 +178,23 @@ Machine learning system for agricultural forecasting and crop yield optimization
 
 🏅 Salesforce Agentforce AI Certified
 
----
-
-## 💻 Tech Stack
-
-### Languages
-
-`Python` `Java` `C++`
-
-### AI / ML
-
-`TensorFlow`
-`Scikit-Learn`
-`NLP`
-`Deep Learning`
-`Computer Vision`
-
-### Generative AI
-
-`LLMs`
-`RAG`
-`LangChain`
-`Hugging Face`
-`AI Agents`
-`Vector Databases`
-
-### Backend
-
-`Spring Boot`
-`REST APIs`
-`MySQL`
-`PostgreSQL`
+🏅 UiPath Automation Developer Associate Training
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Khushaligupta01&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Khushaligupta01&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushaligupta01&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushaligupta01&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
 📧 **guptakhushali428@gmail.com**
 
@@ -155,6 +206,6 @@ Machine learning system for agricultural forecasting and crop yield optimization
 
 <div align="center">
 
-### Building AI products that create real-world impact.
+### Building AI systems that solve real-world problems.
 
 </div>
