@@ -21,20 +21,6 @@
 ![ML Engineering](https://img.shields.io/badge/ML_Engineering-BA7517?style=flat-square&logoColor=white)
 
 </div>
-
----
-
-### 🔭 Focus Areas
-
-| | |
-|---|---|
-| 🧠 **LLM Applications** | End-to-end conversational AI systems and chatbots |
-| 🔍 **RAG Pipelines** | Retrieval-augmented generation for grounded, accurate outputs |
-| 🎬 **Video Intelligence** | Transforming raw video data into structured, actionable insights |
-| 🤖 **AI Agents** | Autonomous agents for complex multi-step task orchestration |
-
----
-
 <div align="center">
   <sub>Open to collaborations · <a href="mailto:guptakhushali428@gmail.com">guptakhushali428@gmail.com</a></sub>
 </div>
