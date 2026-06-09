@@ -19,7 +19,6 @@
 ![AI Agents](https://img.shields.io/badge/AI_Agents-D85A30?style=flat-square&logoColor=white)
 ![LLM Apps](https://img.shields.io/badge/LLM_Applications-378ADD?style=flat-square&logoColor=white)
 ![ML Engineering](https://img.shields.io/badge/ML_Engineering-BA7517?style=flat-square&logoColor=white)
-![](https://komarev.com/ghpvc/?username=khushaligupta01&color=blue)
 
 </div>
 <div align="center">
